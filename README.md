@@ -1,3 +1,3 @@
 # fisrt-script-in-python
 
-Uploading first_script - Jupyter Notebook - Google Chrome 2022-07-26 18-35-58.mp4…
+https://user-images.githubusercontent.com/101835324/181116714-f59db7f7-4e1e-4e61-8fe6-cbb44ca506cc.mp4
